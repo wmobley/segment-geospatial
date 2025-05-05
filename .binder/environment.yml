@@ -7,4 +7,3 @@ dependencies:
   - gdal
   - groundingdino-py
   - localtileserver
-  - jupyter-leaflet
